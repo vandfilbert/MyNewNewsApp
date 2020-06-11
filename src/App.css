@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+#imgLogo{
+  height: 40px;
+  width: 120px;
+}
+
+.navbar{
+  background-color: #ffba00;
+}
+
+.container.news{
+  margin: auto;
+  margin-top: 20px;
+  overflow: hidden;
+}
+
+div.card{
+  margin-bottom: 20px;
+}
